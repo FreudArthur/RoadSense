@@ -2,7 +2,7 @@
 
 [English](#english) | [Français](#francais)
 
-![Ground truth, zero-shot SegFormer-B2 and fine-tuned SegFormer-B0 on one test image per surface](results/figures/qualitative_v0.png)
+![Ground truth, zero-shot SegFormer-B2 and fine-tuned SegFormer-B0 on one test image per surface](outputs_2/qualitative_v0.png)
 
 ---
 
