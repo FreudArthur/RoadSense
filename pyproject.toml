@@ -1,0 +1,25 @@
+[project]
+name = "roadsense"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "FreudArthur", email = "bokossafreud6@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "matplotlib>=3.11.2",
+    "mpmath>=1.4.1",
+    "numpy>=2.5.3",
+    "opencv-python>=5.0.0.93",
+    "pandas>=3.0.6",
+    "transformers>=5.18.0",
+]
+
+[project.scripts]
+roadsense = "roadsense:main"
+
+[build-system]
+requires = ["uv_build>=0.12.17,<0.13.0"]
+build-backend = "uv_build"
