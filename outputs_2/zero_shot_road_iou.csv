@@ -1,0 +1,7 @@
+surface,n_images,zero_shot_b0,n_images,zero_shot_b2
+asphalt,21,0.847,21,0.868
+mixed,1,0.99,1,0.988
+pavers,8,0.884,8,0.844
+sand_covered_pavers,10,0.966,10,0.971
+unpaved,23,0.816,23,0.847
+ALL,63,0.863,63,0.88
