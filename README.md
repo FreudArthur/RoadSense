@@ -55,7 +55,7 @@ Asphalt, dry vs rain (road IoU in %, SegFormer-B0):
 ### Data
 
 - 18 phone videos filmed in September and October 2026 in Cotonou and Abomey-Calavi, from a motorbike (often as a passenger) and on foot. Frames extracted at 1 per second, blurry and near-duplicate frames removed.
-- 235 frames selected: **64 test**, **59 train**, **112 to pre-annotate**. Test frames come from videos or time blocks never used for training, to avoid near-duplicate leakage.
+- 235 frames selected: **63 test** (one took back), **59 train**, **112 to pre-annotate**. Test frames come from videos or time blocks never used for training, to avoid near-duplicate leakage.
 - Annotated by hand in CVAT with a single `road` label: any flat, continuous surface a motorbike or car can drive on, whatever the material. Full rules in [ANNOTATION_GUIDE.md](ANNOTATION_GUIDE.md).
 - Each frame is tagged with its surface type, lighting and weather ([data/index.csv](data/index.csv)).
 
@@ -157,7 +157,7 @@ Goudron, sec vs pluie (IoU route en %, SegFormer-B0) :
 ### Données
 
 - 18 vidéos filmées au téléphone en septembre et octobre 2026 à Cotonou et Abomey-Calavi, depuis une moto (souvent en passager) et à pied. Images extraites à 1 par seconde, images floues et quasi doublons retirés.
-- 235 images sélectionnées : **64 de test**, **59 d'entraînement**, **112 à pré-annoter**. Les images de test viennent de vidéos ou de passages jamais utilisés pour l'entraînement, pour éviter les fuites entre images presque identiques.
+- 235 images sélectionnées : **63 de test**(une retirée), **59 d'entraînement**, **112 à pré-annoter**. Les images de test viennent de vidéos ou de passages jamais utilisés pour l'entraînement, pour éviter les fuites entre images presque identiques.
 - Annotation manuelle dans CVAT avec un seul label `road` : toute surface plane et continue sur laquelle une moto ou une voiture peut rouler, quel que soit le matériau. Règles complètes dans [ANNOTATION_GUIDE.md](ANNOTATION_GUIDE.md) (en anglais).
 - Chaque image est taguée avec son type de surface, l'éclairage et la météo ([data/index.csv](data/index.csv)).
 
