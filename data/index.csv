@@ -1,0 +1,236 @@
+id,split,file,mask,source_file,video,time_s,surface,lighting,weather,note,exclude_from_eval,road_fraction,cvat_task
+0001,test,test/images/0001.jpg,test/masks/0001.png,20260930_074322_f000026.jpg,20260930_074322.mp4,1.0,pavers,day,dry,passenger_view,0,0.389,main
+0002,test,test/images/0002.jpg,test/masks/0002.png,20260930_074322_f000078.jpg,20260930_074322.mp4,3.0,pavers,day,dry,passenger_view,0,0.312,main
+0003,test,test/images/0003.jpg,test/masks/0003.png,20260930_074322_f000156.jpg,20260930_074322.mp4,6.0,pavers,day,dry,passenger_view,0,0.238,main
+0004,test,test/images/0004.jpg,test/masks/0004.png,20260930_074322_f000208.jpg,20260930_074322.mp4,8.0,pavers,day,dry,passenger_view,0,0.259,main
+0005,test,test/images/0005.jpg,test/masks/0005.png,20260930_074322_f000286.jpg,20260930_074322.mp4,11.0,pavers,day,dry,passenger_view,0,0.317,main
+0006,test,test/images/0006.jpg,test/masks/0006.png,20260930_074322_f000338.jpg,20260930_074322.mp4,13.0,pavers,day,dry,passenger_view,0,0.439,main
+0007,test,test/images/0007.jpg,test/masks/0007.png,20260930_074322_f000416.jpg,20260930_074322.mp4,16.0,pavers,day,dry,passenger_view,0,0.251,main
+0008,test,test/images/0008.jpg,test/masks/0008.png,20260930_074322_f000468.jpg,20260930_074322.mp4,18.0,pavers,day,dry,passenger_view,0,0.392,main
+0009,test,test/images/0009.jpg,test/masks/0009.png,20260930_190053_f000280.jpg,20260930_190053.mp4,10.1,unpaved,dusk_night,dry,motion_blur,0,0.592,main
+0010,test,test/images/0010.jpg,test/masks/0010.png,20260930_190053_f000336.jpg,20260930_190053.mp4,12.2,unpaved,dusk_night,dry,motion_blur,0,0.624,main
+0011,test,test/images/0011.jpg,test/masks/0011.png,20260930_190053_f000448.jpg,20260930_190053.mp4,16.2,unpaved,dusk_night,dry,,0,0.662,main
+0012,test,test/images/0012.jpg,test/masks/0012.png,20260930_190053_f000812.jpg,20260930_190053.mp4,29.4,unpaved,dusk_night,dry,,0,0.655,main
+0013,test,test/images/0013.jpg,test/masks/0013.png,20260930_190053_f000868.jpg,20260930_190053.mp4,31.4,unpaved,dusk_night,dry,,0,0.59,main
+0014,test,test/images/0014.jpg,test/masks/0014.png,20260930_190053_f000952.jpg,20260930_190053.mp4,34.5,unpaved,dusk_night,dry,,0,0.5,main
+0015,test,test/images/0015.jpg,test/masks/0015.png,20260930_190053_f001148.jpg,20260930_190053.mp4,41.6,unpaved,dusk_night,dry,,0,0.555,main
+0016,test,test/images/0016.jpg,test/masks/0016.png,20260930_190053_f001232.jpg,20260930_190053.mp4,44.6,unpaved,dusk_night,dry,,0,0.515,main
+0017,test,test/images/0017.jpg,test/masks/0017.png,20261001_073745_f000069.jpg,20261001_073745.mp4,3.0,unpaved,day,dry,,0,0.623,main
+0018,test,test/images/0018.jpg,test/masks/0018.png,20261001_073745_f000207.jpg,20261001_073745.mp4,9.0,unpaved,day,dry,,0,0.676,main
+0019,test,test/images/0019.jpg,test/masks/0019.png,20261001_073745_f000253.jpg,20261001_073745.mp4,11.1,unpaved,day,dry,,0,0.937,main
+0020,test,test/images/0020.jpg,test/masks/0020.png,20261001_073745_f000299.jpg,20261001_073745.mp4,13.1,unpaved,day,dry,,0,0.642,main
+0021,test,test/images/0021.jpg,test/masks/0021.png,20261001_073745_f000345.jpg,20261001_073745.mp4,15.1,unpaved,day,dry,,0,0.663,main
+0022,test,test/images/0022.jpg,test/masks/0022.png,20261001_073745_f000391.jpg,20261001_073745.mp4,17.1,unpaved,day,dry,,0,0.641,main
+0023,test,test/images/0023.jpg,test/masks/0023.png,20261001_073745_f000460.jpg,20261001_073745.mp4,20.1,unpaved,day,dry,,0,0.749,main
+0024,test,test/images/0024.jpg,test/masks/0024.png,20261001_073745_f000506.jpg,20261001_073745.mp4,22.1,unpaved,day,dry,,0,0.431,main
+0025,test,test/images/0025.jpg,test/masks/0025.png,20261001_073745_f000552.jpg,20261001_073745.mp4,24.1,unpaved,day,dry,,0,0.718,main
+0026,test,test/images/0026.jpg,test/masks/0026.png,20261001_073745_f000644.jpg,20261001_073745.mp4,28.2,unpaved,day,dry,,0,0.516,main
+0027,test,test/images/0027.jpg,test/masks/0027.png,20261001_073745_f000690.jpg,20261001_073745.mp4,30.2,unpaved,day,dry,,0,0.631,main
+0028,test,test/images/0028.jpg,test/masks/0028.png,20261001_073745_f000736.jpg,20261001_073745.mp4,32.2,unpaved,day,dry,,0,0.801,main
+0029,test,test/images/0029.jpg,test/masks/0029.png,20261001_073850_f005307.jpg,20261001_073850.mp4,180.5,asphalt,day,dry,passenger_view; occluded,0,0.293,main
+0030,test,test/images/0030.jpg,test/masks/0030.png,20261001_073850_f005423.jpg,20261001_073850.mp4,184.5,asphalt,day,dry,passenger_view; occluded,0,0.277,main
+0031,test,test/images/0031.jpg,test/masks/0031.png,20261001_073850_f005510.jpg,20261001_073850.mp4,187.4,asphalt,day,dry,passenger_view; occluded,0,0.259,main
+0032,test,test/images/0032.jpg,test/masks/0032.png,20261001_073850_f005597.jpg,20261001_073850.mp4,190.4,asphalt,day,dry,passenger_view; heavy_occlusion; exclude_from_eval,1,0.055,main
+0033,test,test/images/0033.jpg,test/masks/0033.png,20261001_073850_f005742.jpg,20261001_073850.mp4,195.3,asphalt,day,dry,passenger_view; occluded,0,0.36,main
+0034,test,test/images/0034.jpg,test/masks/0034.png,20261001_073850_f005829.jpg,20261001_073850.mp4,198.3,asphalt,day,dry,passenger_view; occluded,0,0.26,main
+0035,test,test/images/0035.jpg,test/masks/0035.png,20261001_073850_f005945.jpg,20261001_073850.mp4,202.2,asphalt,day,dry,passenger_view; occluded,0,0.324,main
+0036,test,test/images/0036.jpg,test/masks/0036.png,20261001_073850_f006032.jpg,20261001_073850.mp4,205.2,asphalt,day,dry,passenger_view; occluded,0,0.366,main
+0037,test,test/images/0037.jpg,test/masks/0037.png,20261001_143614_f000150.jpg,20261001_143614.mp4,5.1,unpaved,day,dry,on_foot; gravel; low_angle,0,0.768,main
+0038,test,test/images/0038.jpg,test/masks/0038.png,20261001_143614_f000270.jpg,20261001_143614.mp4,9.2,unpaved,day,dry,on_foot; gravel; low_angle,0,0.753,main
+0039,test,test/images/0039.jpg,test/masks/0039.png,20261001_143614_f000390.jpg,20261001_143614.mp4,13.2,unpaved,day,dry,on_foot; gravel; low_angle,0,0.74,main
+0040,test,test/images/0040.jpg,test/masks/0040.png,20261001_143614_f000510.jpg,20261001_143614.mp4,17.3,mixed,day,dry,on_foot,0,0.9,main
+0041,test,test/images/0041.jpg,test/masks/0041.png,20261001_143614_f000630.jpg,20261001_143614.mp4,21.4,sand_covered_pavers,day,dry,on_foot,0,0.743,main
+0042,test,test/images/0042.jpg,test/masks/0042.png,20261001_143614_f000690.jpg,20261001_143614.mp4,23.4,sand_covered_pavers,day,dry,on_foot,0,0.845,main
+0043,test,test/images/0043.jpg,test/masks/0043.png,20261001_143614_f000750.jpg,20261001_143614.mp4,25.4,sand_covered_pavers,day,dry,on_foot,0,0.803,main
+0044,test,test/images/0044.jpg,test/masks/0044.png,20261001_143614_f000840.jpg,20261001_143614.mp4,28.5,sand_covered_pavers,day,dry,on_foot,0,0.742,main
+0045,test,test/images/0045.jpg,test/masks/0045.png,20261001_143614_f000900.jpg,20261001_143614.mp4,30.5,sand_covered_pavers,day,dry,on_foot,0,0.495,main
+0046,test,test/images/0046.jpg,test/masks/0046.png,20261001_143614_f000960.jpg,20261001_143614.mp4,32.5,sand_covered_pavers,day,dry,on_foot,0,0.647,main
+0047,test,test/images/0047.jpg,test/masks/0047.png,20261001_143614_f001050.jpg,20261001_143614.mp4,35.6,sand_covered_pavers,day,dry,on_foot,0,0.732,main
+0048,test,test/images/0048.jpg,test/masks/0048.png,20261001_143614_f001140.jpg,20261001_143614.mp4,38.6,sand_covered_pavers,day,dry,on_foot,0,0.645,main
+0049,test,test/images/0049.jpg,test/masks/0049.png,20261001_143614_f001200.jpg,20261001_143614.mp4,40.7,sand_covered_pavers,day,dry,on_foot,0,0.758,main
+0050,test,test/images/0050.jpg,test/masks/0050.png,20261001_143614_f001260.jpg,20261001_143614.mp4,42.7,sand_covered_pavers,day,dry,on_foot,0,0.822,main
+0051,test,test/images/0051.jpg,test/masks/0051.png,20261003_075627_f000841.jpg,20261003_075627.mp4,28.9,asphalt,day,rain,passenger_view,0,0.451,asphalt
+0052,test,test/images/0052.jpg,test/masks/0052.png,20261003_075627_f000986.jpg,20261003_075627.mp4,33.9,asphalt,day,rain,passenger_view,0,0.51,asphalt
+0053,test,test/images/0053.jpg,test/masks/0053.png,20261003_075627_f001189.jpg,20261003_075627.mp4,40.9,asphalt,day,rain,passenger_view,0,0.56,asphalt
+0054,test,test/images/0054.jpg,test/masks/0054.png,20261003_075627_f001537.jpg,20261003_075627.mp4,52.8,asphalt,day,rain,passenger_view; occluded,0,0.692,asphalt
+0055,test,test/images/0055.jpg,test/masks/0055.png,20261003_075627_f001682.jpg,20261003_075627.mp4,57.8,asphalt,day,rain,passenger_view; occluded,0,0.707,asphalt
+0056,test,test/images/0056.jpg,test/masks/0056.png,20261003_075627_f001827.jpg,20261003_075627.mp4,62.8,asphalt,day,rain,passenger_view; occluded,0,0.548,asphalt
+0057,test,test/images/0057.jpg,test/masks/0057.png,20261003_075627_f001943.jpg,20261003_075627.mp4,66.8,asphalt,day,rain,passenger_view,0,0.786,asphalt
+0058,test,test/images/0058.jpg,test/masks/0058.png,20261003_075627_f002088.jpg,20261003_075627.mp4,71.8,asphalt,day,rain,passenger_view; occluded,0,0.55,asphalt
+0059,test,test/images/0059.jpg,test/masks/0059.png,20261003_130502_f000240.jpg,20261003_130502.mp4,8.0,asphalt,day,dry,on_foot,0,0.716,asphalt
+0060,test,test/images/0060.jpg,test/masks/0060.png,20261003_130502_f000390.jpg,20261003_130502.mp4,13.0,asphalt,day,dry,on_foot; occluded,0,0.941,asphalt
+0061,test,test/images/0061.jpg,test/masks/0061.png,20261003_130502_f000600.jpg,20261003_130502.mp4,20.1,asphalt,day,dry,on_foot; tilted,0,0.908,asphalt
+0062,test,test/images/0062.jpg,test/masks/0062.png,20261003_130502_f000750.jpg,20261003_130502.mp4,25.1,asphalt,day,dry,on_foot; tilted,0,0.932,asphalt
+0063,test,test/images/0063.jpg,test/masks/0063.png,20261003_130502_f000900.jpg,20261003_130502.mp4,30.1,asphalt,day,dry,on_foot; tilted; sand_dusted,0,0.752,asphalt
+0064,test,test/images/0064.jpg,test/masks/0064.png,20261003_130502_f001170.jpg,20261003_130502.mp4,39.1,asphalt,day,dry,on_foot; tilted; sand_dusted,0,0.442,asphalt
+0065,train,train/images/0065.jpg,train/masks/0065.png,20260930_073737_f000290.jpg,20260930_073737.mp4,10.0,unpaved,day,dry,,0,0.758,main
+0066,train,train/images/0066.jpg,train/masks/0066.png,20260930_073737_f000725.jpg,20260930_073737.mp4,25.1,unpaved,day,dry,,0,0.852,main
+0067,train,train/images/0067.jpg,train/masks/0067.png,20260930_073737_f001160.jpg,20260930_073737.mp4,40.1,unpaved,day,dry,,0,0.45,main
+0068,train,train/images/0068.jpg,train/masks/0068.png,20260930_073737_f001450.jpg,20260930_073737.mp4,50.2,unpaved,day,dry,,0,0.535,main
+0069,train,train/images/0069.jpg,train/masks/0069.png,20260930_073737_f001769.jpg,20260930_073737.mp4,61.2,unpaved,day,dry,,0,0.45,main
+0070,train,train/images/0070.jpg,train/masks/0070.png,20260930_074028_f000216.jpg,20260930_074028.mp4,7.9,unpaved,day,dry,passenger_view,0,0.311,main
+0071,train,train/images/0071.jpg,train/masks/0071.png,20260930_074028_f000540.jpg,20260930_074028.mp4,19.7,unpaved,day,dry,,0,0.534,main
+0072,train,train/images/0072.jpg,train/masks/0072.png,20260930_185339_f000150.jpg,20260930_185339.mp4,5.0,unpaved,dusk_night,dry,motion_blur,0,0.639,main
+0073,train,train/images/0073.jpg,train/masks/0073.png,20260930_185339_f000840.jpg,20260930_185339.mp4,28.2,unpaved,dusk_night,dry,,0,0.147,main
+0074,train,train/images/0074.jpg,train/masks/0074.png,20260930_190644_f000180.jpg,20260930_190644.mp4,6.1,pavers,dusk_night,dry,motion_blur,0,0.448,main
+0075,train,train/images/0075.jpg,train/masks/0075.png,20261001_073850_f001972.jpg,20261001_073850.mp4,67.1,unpaved,day,dry,passenger_view; occluded; puddle,0,0.571,main
+0076,train,train/images/0076.jpg,train/masks/0076.png,20261001_073850_f002378.jpg,20261001_073850.mp4,80.9,unpaved,day,dry,passenger_view; occluded,0,0.368,main
+0077,train,train/images/0077.jpg,train/masks/0077.png,20261001_073850_f002697.jpg,20261001_073850.mp4,91.7,unpaved,day,dry,passenger_view; occluded,0,0.479,main
+0078,train,train/images/0078.jpg,train/masks/0078.png,20261001_073850_f002987.jpg,20261001_073850.mp4,101.6,unpaved,day,dry,passenger_view; occluded,0,0.393,main
+0079,train,train/images/0079.jpg,train/masks/0079.png,20261001_073850_f003190.jpg,20261001_073850.mp4,108.5,unpaved,day,dry,passenger_view; occluded,0,0.155,main
+0080,train,train/images/0080.jpg,train/masks/0080.png,20261001_073850_f003538.jpg,20261001_073850.mp4,120.3,unpaved,day,dry,passenger_view; occluded,0,0.29,main
+0081,train,train/images/0081.jpg,train/masks/0081.png,20261001_073850_f003857.jpg,20261001_073850.mp4,131.2,unpaved,day,dry,passenger_view; occluded,0,0.251,main
+0082,train,train/images/0082.jpg,train/masks/0082.png,20261001_073850_f004147.jpg,20261001_073850.mp4,141.1,unpaved,day,dry,passenger_view; occluded,0,0.386,main
+0083,train,train/images/0083.jpg,train/masks/0083.png,20261001_073850_f004437.jpg,20261001_073850.mp4,150.9,unpaved,day,dry,passenger_view; occluded,0,0.428,main
+0084,train,train/images/0084.jpg,train/masks/0084.png,20261001_073850_f004727.jpg,20261001_073850.mp4,160.8,unpaved,day,dry,passenger_view; occluded,0,0.259,main
+0085,train,train/images/0085.jpg,train/masks/0085.png,20261001_073850_f005133.jpg,20261001_073850.mp4,174.6,asphalt,day,dry,passenger_view; occluded,0,0.598,main
+0086,train,train/images/0086.jpg,train/masks/0086.png,20261001_074258_f000180.jpg,20261001_074258.mp4,6.1,pavers,day,dry,passenger_view; occluded,0,0.335,main
+0087,train,train/images/0087.jpg,train/masks/0087.png,20261001_074258_f000450.jpg,20261001_074258.mp4,15.3,pavers,day,dry,passenger_view; occluded,0,0.278,main
+0088,train,train/images/0088.jpg,train/masks/0088.png,20261001_074258_f000780.jpg,20261001_074258.mp4,26.4,pavers,day,dry,passenger_view; occluded,0,0.445,main
+0089,train,train/images/0089.jpg,train/masks/0089.png,20261001_074350_f000232.jpg,20261001_074350.mp4,8.1,pavers,day,dry,passenger_view; occluded,0,0.21,main
+0090,train,train/images/0090.jpg,train/masks/0090.png,20261001_074350_f000493.jpg,20261001_074350.mp4,17.2,pavers,day,dry,passenger_view; occluded,0,0.328,main
+0091,train,train/images/0091.jpg,train/masks/0091.png,20261001_074350_f000754.jpg,20261001_074350.mp4,26.4,pavers,day,dry,passenger_view; occluded,0,0.366,main
+0092,train,train/images/0092.jpg,train/masks/0092.png,20261001_074350_f001044.jpg,20261001_074350.mp4,36.5,pavers,day,dry,passenger_view; occluded,0,0.192,main
+0093,train,train/images/0093.jpg,train/masks/0093.png,20261001_074350_f001305.jpg,20261001_074350.mp4,45.6,pavers,day,dry,passenger_view; occluded,0,0.278,main
+0094,train,train/images/0094.jpg,train/masks/0094.png,20261001_074350_f001479.jpg,20261001_074350.mp4,51.7,pavers,day,dry,passenger_view; occluded,0,0.367,main
+0095,train,train/images/0095.jpg,train/masks/0095.png,20261001_074350_f001711.jpg,20261001_074350.mp4,59.8,pavers,day,dry,passenger_view; occluded,0,0.193,main
+0096,train,train/images/0096.jpg,train/masks/0096.png,20261001_143236_f000056.jpg,20261001_143236.mp4,2.0,sand_covered_pavers,day,dry,on_foot,0,0.837,main
+0097,train,train/images/0097.jpg,train/masks/0097.png,20261001_143236_f000140.jpg,20261001_143236.mp4,4.9,mixed,day,dry,on_foot,0,0.704,main
+0098,train,train/images/0098.jpg,train/masks/0098.png,20261001_143236_f000252.jpg,20261001_143236.mp4,8.9,unpaved,day,dry,on_foot,0,0.788,main
+0099,train,train/images/0099.jpg,train/masks/0099.png,20261001_143236_f000644.jpg,20261001_143236.mp4,22.7,unpaved,day,dry,on_foot,0,0.776,main
+0100,train,train/images/0100.jpg,train/masks/0100.png,20261001_143236_f000896.jpg,20261001_143236.mp4,31.6,unpaved,day,dry,on_foot,0,0.665,main
+0101,train,train/images/0101.jpg,train/masks/0101.png,20261001_143236_f001064.jpg,20261001_143236.mp4,37.5,unpaved,day,dry,on_foot,0,0.668,main
+0102,train,train/images/0102.jpg,train/masks/0102.png,20261001_143236_f001344.jpg,20261001_143236.mp4,47.4,unpaved,day,dry,on_foot,0,0.758,main
+0103,train,train/images/0103.jpg,train/masks/0103.png,20261001_143236_f001596.jpg,20261001_143236.mp4,56.3,unpaved,day,dry,on_foot,0,0.91,main
+0104,train,train/images/0104.jpg,train/masks/0104.png,20261001_143236_f001932.jpg,20261001_143236.mp4,68.1,unpaved,day,dry,on_foot,0,0.945,main
+0105,train,train/images/0105.jpg,train/masks/0105.png,20261001_143614_f001530.jpg,20261001_143614.mp4,51.9,sand_covered_pavers,day,dry,on_foot,0,0.7,main
+0106,train,train/images/0106.jpg,train/masks/0106.png,20261001_143614_f001770.jpg,20261001_143614.mp4,60.0,sand_covered_pavers,day,dry,on_foot,0,0.627,main
+0107,train,train/images/0107.jpg,train/masks/0107.png,20261001_143614_f001920.jpg,20261001_143614.mp4,65.1,sand_covered_pavers,day,dry,on_foot,0,0.658,main
+0108,train,train/images/0108.jpg,train/masks/0108.png,20261001_143614_f002100.jpg,20261001_143614.mp4,71.2,sand_covered_pavers,day,dry,on_foot,0,0.599,main
+0109,train,train/images/0109.jpg,train/masks/0109.png,20261001_143614_f002220.jpg,20261001_143614.mp4,75.2,pavers,day,dry,on_foot,0,0.73,main
+0110,train,train/images/0110.jpg,train/masks/0110.png,20261001_143614_f002550.jpg,20261001_143614.mp4,86.4,mixed,day,dry,on_foot,0,0.827,main
+0111,train,train/images/0111.jpg,train/masks/0111.png,20261001_143614_f002670.jpg,20261001_143614.mp4,90.5,pavers,day,dry,on_foot; pedestrian_walkway,0,0.638,main
+0112,train,train/images/0112.jpg,train/masks/0112.png,20261001_143614_f002910.jpg,20261001_143614.mp4,98.6,pavers,day,dry,on_foot; pedestrian_walkway,0,0.625,main
+0113,train,train/images/0113.jpg,train/masks/0113.png,20261001_143614_f003180.jpg,20261001_143614.mp4,107.8,pavers,day,dry,on_foot; pedestrian_walkway,0,0.775,main
+0114,train,train/images/0114.jpg,train/masks/0114.png,20261001_143614_f003450.jpg,20261001_143614.mp4,116.9,pavers,day,dry,on_foot; pedestrian_walkway,0,0.383,main
+0115,train,train/images/0115.jpg,train/masks/0115.png,20261001_143614_f003690.jpg,20261001_143614.mp4,125.1,pavers,day,dry,on_foot; pedestrian_walkway,0,0.401,main
+0116,train,train/images/0116.jpg,train/masks/0116.png,20261003_125153_f000406.jpg,20261003_125153.mp4,14.0,pavers,day,dry,passenger_view; low_angle; occluded,0,0.618,asphalt
+0117,train,train/images/0117.jpg,train/masks/0117.png,20261003_125153_f001015.jpg,20261003_125153.mp4,35.0,pavers,day,dry,passenger_view; low_angle; occluded,0,0.599,asphalt
+0118,train,train/images/0118.jpg,train/masks/0118.png,20261003_125153_f001624.jpg,20261003_125153.mp4,56.0,asphalt,day,dry,passenger_view; low_angle; occluded,0,0.4,asphalt
+0119,train,train/images/0119.jpg,train/masks/0119.png,20261003_125153_f002001.jpg,20261003_125153.mp4,69.1,asphalt,day,dry,passenger_view; low_angle; occluded; shadows,0,0.771,asphalt
+0120,train,train/images/0120.jpg,train/masks/0120.png,20261003_125153_f002291.jpg,20261003_125153.mp4,79.1,asphalt,day,dry,passenger_view; low_angle; occluded; shadows,0,0.622,asphalt
+0121,train,train/images/0121.jpg,train/masks/0121.png,20261003_125153_f002610.jpg,20261003_125153.mp4,90.1,asphalt,day,dry,passenger_view; low_angle; occluded; shadows,0,0.424,asphalt
+0122,train,train/images/0122.jpg,train/masks/0122.png,20261003_130339_f000270.jpg,20261003_130339.mp4,9.0,asphalt,day,dry,on_foot; low_angle; gravel_shoulder,0,0.348,asphalt
+0123,train,train/images/0123.jpg,train/masks/0123.png,20261003_130339_f001470.jpg,20261003_130339.mp4,49.0,asphalt,day,dry,on_foot; gravel_shoulder,0,0.356,asphalt
+0124,preannotate,preannotate/images/0124.jpg,,20260930_073737_f000203.jpg,20260930_073737.mp4,7.0,unpaved,day,dry,,0,,main
+0125,preannotate,preannotate/images/0125.jpg,,20260930_073737_f000377.jpg,20260930_073737.mp4,13.0,unpaved,day,dry,,0,,main
+0126,preannotate,preannotate/images/0126.jpg,,20260930_073737_f000493.jpg,20260930_073737.mp4,17.1,unpaved,day,dry,,0,,main
+0127,preannotate,preannotate/images/0127.jpg,,20260930_073737_f000986.jpg,20260930_073737.mp4,34.1,unpaved,day,dry,,0,,main
+0128,preannotate,preannotate/images/0128.jpg,,20260930_073737_f001073.jpg,20260930_073737.mp4,37.1,unpaved,day,dry,,0,,main
+0129,preannotate,preannotate/images/0129.jpg,,20260930_073737_f001247.jpg,20260930_073737.mp4,43.2,unpaved,day,dry,,0,,main
+0130,preannotate,preannotate/images/0130.jpg,,20260930_073737_f001363.jpg,20260930_073737.mp4,47.2,unpaved,day,dry,,0,,main
+0131,preannotate,preannotate/images/0131.jpg,,20260930_073737_f001595.jpg,20260930_073737.mp4,55.2,unpaved,day,dry,,0,,main
+0132,preannotate,preannotate/images/0132.jpg,,20260930_074028_f000054.jpg,20260930_074028.mp4,2.0,unpaved,day,dry,passenger_view,0,,main
+0133,preannotate,preannotate/images/0133.jpg,,20260930_074028_f000135.jpg,20260930_074028.mp4,4.9,unpaved,day,dry,passenger_view,0,,main
+0134,preannotate,preannotate/images/0134.jpg,,20260930_074028_f000324.jpg,20260930_074028.mp4,11.8,unpaved,day,dry,passenger_view,0,,main
+0135,preannotate,preannotate/images/0135.jpg,,20260930_074028_f000405.jpg,20260930_074028.mp4,14.8,unpaved,day,dry,passenger_view,0,,main
+0136,preannotate,preannotate/images/0136.jpg,,20260930_074028_f000702.jpg,20260930_074028.mp4,25.6,unpaved,day,dry,passenger_view,0,,main
+0137,preannotate,preannotate/images/0137.jpg,,20260930_185339_f000060.jpg,20260930_185339.mp4,2.0,unpaved,dusk_night,dry,,0,,main
+0138,preannotate,preannotate/images/0138.jpg,,20260930_185339_f000300.jpg,20260930_185339.mp4,10.1,unpaved,dusk_night,dry,,0,,main
+0139,preannotate,preannotate/images/0139.jpg,,20260930_185339_f000480.jpg,20260930_185339.mp4,16.1,unpaved,dusk_night,dry,,0,,main
+0140,preannotate,preannotate/images/0140.jpg,,20260930_190644_f000030.jpg,20260930_190644.mp4,1.0,pavers,dusk_night,dry,,0,,main
+0141,preannotate,preannotate/images/0141.jpg,,20260930_190644_f000300.jpg,20260930_190644.mp4,10.2,pavers,dusk_night,dry,,0,,main
+0142,preannotate,preannotate/images/0142.jpg,,20261001_073850_f001769.jpg,20261001_073850.mp4,60.2,unpaved,day,dry,passenger_view; occluded,0,,main
+0143,preannotate,preannotate/images/0143.jpg,,20261001_073850_f001856.jpg,20261001_073850.mp4,63.1,unpaved,day,dry,passenger_view; occluded,0,,main
+0144,preannotate,preannotate/images/0144.jpg,,20261001_073850_f002175.jpg,20261001_073850.mp4,74.0,unpaved,day,dry,passenger_view; occluded,0,,main
+0145,preannotate,preannotate/images/0145.jpg,,20261001_073850_f002262.jpg,20261001_073850.mp4,76.9,unpaved,day,dry,passenger_view; occluded,0,,main
+0146,preannotate,preannotate/images/0146.jpg,,20261001_073850_f002465.jpg,20261001_073850.mp4,83.8,unpaved,day,dry,passenger_view; occluded,0,,main
+0147,preannotate,preannotate/images/0147.jpg,,20261001_073850_f002552.jpg,20261001_073850.mp4,86.8,unpaved,day,dry,passenger_view; occluded,0,,main
+0148,preannotate,preannotate/images/0148.jpg,,20261001_073850_f002813.jpg,20261001_073850.mp4,95.7,unpaved,day,dry,passenger_view; occluded,0,,main
+0149,preannotate,preannotate/images/0149.jpg,,20261001_073850_f002900.jpg,20261001_073850.mp4,98.6,unpaved,day,dry,passenger_view; occluded,0,,main
+0150,preannotate,preannotate/images/0150.jpg,,20261001_073850_f003103.jpg,20261001_073850.mp4,105.6,unpaved,day,dry,passenger_view; occluded,0,,main
+0151,preannotate,preannotate/images/0151.jpg,,20261001_073850_f003306.jpg,20261001_073850.mp4,112.5,unpaved,day,dry,passenger_view; occluded,0,,main
+0152,preannotate,preannotate/images/0152.jpg,,20261001_073850_f003393.jpg,20261001_073850.mp4,115.4,unpaved,day,dry,passenger_view; occluded,0,,main
+0153,preannotate,preannotate/images/0153.jpg,,20261001_073850_f003683.jpg,20261001_073850.mp4,125.3,unpaved,day,dry,passenger_view; occluded,0,,main
+0154,preannotate,preannotate/images/0154.jpg,,20261001_073850_f003770.jpg,20261001_073850.mp4,128.2,unpaved,day,dry,passenger_view; occluded,0,,main
+0155,preannotate,preannotate/images/0155.jpg,,20261001_073850_f003944.jpg,20261001_073850.mp4,134.2,unpaved,day,dry,passenger_view; occluded,0,,main
+0156,preannotate,preannotate/images/0156.jpg,,20261001_073850_f004031.jpg,20261001_073850.mp4,137.1,unpaved,day,dry,passenger_view; occluded,0,,main
+0157,preannotate,preannotate/images/0157.jpg,,20261001_073850_f004263.jpg,20261001_073850.mp4,145.0,unpaved,day,dry,passenger_view; occluded,0,,main
+0158,preannotate,preannotate/images/0158.jpg,,20261001_073850_f004350.jpg,20261001_073850.mp4,148.0,unpaved,day,dry,passenger_view; occluded,0,,main
+0159,preannotate,preannotate/images/0159.jpg,,20261001_073850_f004524.jpg,20261001_073850.mp4,153.9,unpaved,day,dry,passenger_view; occluded,0,,main
+0160,preannotate,preannotate/images/0160.jpg,,20261001_073850_f004611.jpg,20261001_073850.mp4,156.8,unpaved,day,dry,passenger_view; occluded,0,,main
+0161,preannotate,preannotate/images/0161.jpg,,20261001_073850_f004814.jpg,20261001_073850.mp4,163.8,unpaved,day,dry,passenger_view; occluded,0,,main
+0162,preannotate,preannotate/images/0162.jpg,,20261001_073850_f005075.jpg,20261001_073850.mp4,172.6,pavers,day,dry,passenger_view; occluded,0,,main
+0163,preannotate,preannotate/images/0163.jpg,,20261001_074258_f000270.jpg,20261001_074258.mp4,9.2,pavers,day,dry,passenger_view; occluded,0,,main
+0164,preannotate,preannotate/images/0164.jpg,,20261001_074258_f000360.jpg,20261001_074258.mp4,12.2,pavers,day,dry,passenger_view; occluded,0,,main
+0165,preannotate,preannotate/images/0165.jpg,,20261001_074258_f000540.jpg,20261001_074258.mp4,18.3,pavers,day,dry,passenger_view; occluded,0,,main
+0166,preannotate,preannotate/images/0166.jpg,,20261001_074258_f000630.jpg,20261001_074258.mp4,21.4,pavers,day,dry,passenger_view; occluded,0,,main
+0167,preannotate,preannotate/images/0167.jpg,,20261001_074350_f000087.jpg,20261001_074350.mp4,3.0,pavers,day,dry,passenger_view; occluded,0,,main
+0168,preannotate,preannotate/images/0168.jpg,,20261001_074350_f000174.jpg,20261001_074350.mp4,6.1,pavers,day,dry,passenger_view; occluded,0,,main
+0169,preannotate,preannotate/images/0169.jpg,,20261001_074350_f000319.jpg,20261001_074350.mp4,11.2,pavers,day,dry,passenger_view; occluded,0,,main
+0170,preannotate,preannotate/images/0170.jpg,,20261001_074350_f000406.jpg,20261001_074350.mp4,14.2,pavers,day,dry,passenger_view; occluded,0,,main
+0171,preannotate,preannotate/images/0171.jpg,,20261001_074350_f000580.jpg,20261001_074350.mp4,20.3,pavers,day,dry,passenger_view; occluded,0,,main
+0172,preannotate,preannotate/images/0172.jpg,,20261001_074350_f000667.jpg,20261001_074350.mp4,23.3,pavers,day,dry,passenger_view; occluded,0,,main
+0173,preannotate,preannotate/images/0173.jpg,,20261001_074350_f000899.jpg,20261001_074350.mp4,31.4,pavers,day,dry,passenger_view; occluded,0,,main
+0174,preannotate,preannotate/images/0174.jpg,,20261001_074350_f000957.jpg,20261001_074350.mp4,33.5,pavers,day,dry,passenger_view; occluded,0,,main
+0175,preannotate,preannotate/images/0175.jpg,,20261001_074350_f001131.jpg,20261001_074350.mp4,39.6,pavers,day,dry,passenger_view; occluded,0,,main
+0176,preannotate,preannotate/images/0176.jpg,,20261001_074350_f001218.jpg,20261001_074350.mp4,42.6,pavers,day,dry,passenger_view; occluded,0,,main
+0177,preannotate,preannotate/images/0177.jpg,,20261001_074350_f001392.jpg,20261001_074350.mp4,48.7,pavers,day,dry,passenger_view; occluded,0,,main
+0178,preannotate,preannotate/images/0178.jpg,,20261001_074350_f001566.jpg,20261001_074350.mp4,54.8,pavers,day,dry,passenger_view; occluded,0,,main
+0179,preannotate,preannotate/images/0179.jpg,,20261001_074350_f001624.jpg,20261001_074350.mp4,56.8,pavers,day,dry,passenger_view; occluded,0,,main
+0180,preannotate,preannotate/images/0180.jpg,,20261001_074350_f001798.jpg,20261001_074350.mp4,62.9,pavers,day,dry,passenger_view; occluded,0,,main
+0181,preannotate,preannotate/images/0181.jpg,,20261001_074350_f001885.jpg,20261001_074350.mp4,65.9,pavers,day,dry,passenger_view; occluded,0,,main
+0182,preannotate,preannotate/images/0182.jpg,,20261001_143236_f000000.jpg,20261001_143236.mp4,0.0,sand_covered_pavers,day,dry,on_foot,0,,main
+0183,preannotate,preannotate/images/0183.jpg,,20261001_143236_f000112.jpg,20261001_143236.mp4,3.9,mixed,day,dry,on_foot,0,,main
+0184,preannotate,preannotate/images/0184.jpg,,20261001_143236_f000168.jpg,20261001_143236.mp4,5.9,unpaved,day,dry,on_foot,0,,main
+0185,preannotate,preannotate/images/0185.jpg,,20261001_143236_f000448.jpg,20261001_143236.mp4,15.8,unpaved,day,dry,on_foot,0,,main
+0186,preannotate,preannotate/images/0186.jpg,,20261001_143236_f000532.jpg,20261001_143236.mp4,18.8,unpaved,day,dry,on_foot,0,,main
+0187,preannotate,preannotate/images/0187.jpg,,20261001_143236_f000728.jpg,20261001_143236.mp4,25.7,unpaved,day,dry,on_foot,0,,main
+0188,preannotate,preannotate/images/0188.jpg,,20261001_143236_f000812.jpg,20261001_143236.mp4,28.6,unpaved,day,dry,on_foot,0,,main
+0189,preannotate,preannotate/images/0189.jpg,,20261001_143236_f000980.jpg,20261001_143236.mp4,34.6,unpaved,day,dry,on_foot,0,,main
+0190,preannotate,preannotate/images/0190.jpg,,20261001_143236_f001148.jpg,20261001_143236.mp4,40.5,unpaved,day,dry,on_foot,0,,main
+0191,preannotate,preannotate/images/0191.jpg,,20261001_143236_f001260.jpg,20261001_143236.mp4,44.4,unpaved,day,dry,on_foot,0,,main
+0192,preannotate,preannotate/images/0192.jpg,,20261001_143236_f001428.jpg,20261001_143236.mp4,50.4,unpaved,day,dry,on_foot,0,,main
+0193,preannotate,preannotate/images/0193.jpg,,20261001_143236_f001512.jpg,20261001_143236.mp4,53.3,unpaved,day,dry,on_foot,0,,main
+0194,preannotate,preannotate/images/0194.jpg,,20261001_143236_f001680.jpg,20261001_143236.mp4,59.2,unpaved,day,dry,on_foot,0,,main
+0195,preannotate,preannotate/images/0195.jpg,,20261001_143236_f001792.jpg,20261001_143236.mp4,63.2,unpaved,day,dry,on_foot,0,,main
+0196,preannotate,preannotate/images/0196.jpg,,20261001_143614_f001410.jpg,20261001_143614.mp4,47.8,sand_covered_pavers,day,dry,on_foot,0,,main
+0197,preannotate,preannotate/images/0197.jpg,,20261001_143614_f001470.jpg,20261001_143614.mp4,49.8,sand_covered_pavers,day,dry,on_foot,0,,main
+0198,preannotate,preannotate/images/0198.jpg,,20261001_143614_f001620.jpg,20261001_143614.mp4,54.9,sand_covered_pavers,day,dry,on_foot,0,,main
+0199,preannotate,preannotate/images/0199.jpg,,20261001_143614_f001710.jpg,20261001_143614.mp4,58.0,sand_covered_pavers,day,dry,on_foot,0,,main
+0200,preannotate,preannotate/images/0200.jpg,,20261001_143614_f001800.jpg,20261001_143614.mp4,61.0,sand_covered_pavers,day,dry,on_foot,0,,main
+0201,preannotate,preannotate/images/0201.jpg,,20261001_143614_f001860.jpg,20261001_143614.mp4,63.0,sand_covered_pavers,day,dry,on_foot,0,,main
+0202,preannotate,preannotate/images/0202.jpg,,20261001_143614_f001980.jpg,20261001_143614.mp4,67.1,sand_covered_pavers,day,dry,,0,,main
+0203,preannotate,preannotate/images/0203.jpg,,20261001_143614_f002040.jpg,20261001_143614.mp4,69.1,sand_covered_pavers,day,dry,on_foot,0,,main
+0204,preannotate,preannotate/images/0204.jpg,,20261001_143614_f002160.jpg,20261001_143614.mp4,73.2,sand_covered_pavers,day,dry,on_foot,0,,main
+0205,preannotate,preannotate/images/0205.jpg,,20261001_143614_f002310.jpg,20261001_143614.mp4,78.3,pavers,day,dry,on_foot,0,,main
+0206,preannotate,preannotate/images/0206.jpg,,20261001_143614_f002400.jpg,20261001_143614.mp4,81.3,pavers,day,dry,on_foot,0,,main
+0207,preannotate,preannotate/images/0207.jpg,,20261001_143614_f002430.jpg,20261001_143614.mp4,82.4,unpaved,day,dry,on_foot,0,,main
+0208,preannotate,preannotate/images/0208.jpg,,20261001_143614_f002490.jpg,20261001_143614.mp4,84.4,mixed,day,dry,on_foot,0,,main
+0209,preannotate,preannotate/images/0209.jpg,,20261001_143614_f002520.jpg,20261001_143614.mp4,85.4,mixed,day,dry,on_foot,0,,main
+0210,preannotate,preannotate/images/0210.jpg,,20261001_143614_f002580.jpg,20261001_143614.mp4,87.4,mixed,day,dry,on_foot,0,,main
+0211,preannotate,preannotate/images/0211.jpg,,20261001_143614_f002760.jpg,20261001_143614.mp4,93.5,pavers,day,dry,on_foot; pedestrian_walkway,0,,main
+0212,preannotate,preannotate/images/0212.jpg,,20261001_143614_f002820.jpg,20261001_143614.mp4,95.6,pavers,day,dry,on_foot; pedestrian_walkway,0,,main
+0213,preannotate,preannotate/images/0213.jpg,,20261001_143614_f003000.jpg,20261001_143614.mp4,101.7,pavers,day,dry,on_foot; pedestrian_walkway,0,,main
+0214,preannotate,preannotate/images/0214.jpg,,20261001_143614_f003090.jpg,20261001_143614.mp4,104.7,pavers,day,dry,on_foot; pedestrian_walkway,0,,main
+0215,preannotate,preannotate/images/0215.jpg,,20261001_143614_f003270.jpg,20261001_143614.mp4,110.8,pavers,day,dry,on_foot; pedestrian_walkway,0,,main
+0216,preannotate,preannotate/images/0216.jpg,,20261001_143614_f003360.jpg,20261001_143614.mp4,113.9,pavers,day,dry,on_foot; pedestrian_walkway,0,,main
+0217,preannotate,preannotate/images/0217.jpg,,20261001_143614_f003510.jpg,20261001_143614.mp4,119.0,pavers,day,dry,on_foot; pedestrian_walkway,0,,main
+0218,preannotate,preannotate/images/0218.jpg,,20261001_143614_f003600.jpg,20261001_143614.mp4,122.0,pavers,day,dry,on_foot; pedestrian_walkway,0,,main
+0219,preannotate,preannotate/images/0219.jpg,,20261001_143614_f003780.jpg,20261001_143614.mp4,128.1,pavers,day,dry,on_foot; pedestrian_walkway,0,,main
+0220,preannotate,preannotate/images/0220.jpg,,20261003_125153_f000232.jpg,20261003_125153.mp4,8.0,pavers,day,dry,passenger_view; low_angle; occluded,0,,asphalt
+0221,preannotate,preannotate/images/0221.jpg,,20261003_125153_f000580.jpg,20261003_125153.mp4,20.0,pavers,day,dry,passenger_view; low_angle; occluded,0,,asphalt
+0222,preannotate,preannotate/images/0222.jpg,,20261003_125153_f000725.jpg,20261003_125153.mp4,25.0,pavers,day,dry,passenger_view; low_angle; occluded,0,,asphalt
+0223,preannotate,preannotate/images/0223.jpg,,20261003_125153_f001189.jpg,20261003_125153.mp4,41.0,pavers,day,dry,passenger_view; low_angle; occluded,0,,asphalt
+0224,preannotate,preannotate/images/0224.jpg,,20261003_125153_f001508.jpg,20261003_125153.mp4,52.0,asphalt,day,dry,passenger_view; low_angle,0,,asphalt
+0225,preannotate,preannotate/images/0225.jpg,,20261003_125153_f001711.jpg,20261003_125153.mp4,59.0,asphalt,day,dry,passenger_view; low_angle; occluded; shadows,0,,asphalt
+0226,preannotate,preannotate/images/0226.jpg,,20261003_125153_f001827.jpg,20261003_125153.mp4,63.0,asphalt,day,dry,passenger_view; low_angle; occluded; shadows,0,,asphalt
+0227,preannotate,preannotate/images/0227.jpg,,20261003_125153_f002088.jpg,20261003_125153.mp4,72.1,asphalt,day,dry,passenger_view; low_angle; occluded; shadows,0,,asphalt
+0228,preannotate,preannotate/images/0228.jpg,,20261003_125153_f002204.jpg,20261003_125153.mp4,76.1,asphalt,day,dry,passenger_view; low_angle; occluded; shadows,0,,asphalt
+0229,preannotate,preannotate/images/0229.jpg,,20261003_125153_f002407.jpg,20261003_125153.mp4,83.1,asphalt,day,dry,passenger_view; low_angle; occluded; shadows,0,,asphalt
+0230,preannotate,preannotate/images/0230.jpg,,20261003_125153_f002523.jpg,20261003_125153.mp4,87.1,asphalt,day,dry,passenger_view; low_angle; occluded; shadows,0,,asphalt
+0231,preannotate,preannotate/images/0231.jpg,,20261003_125153_f002784.jpg,20261003_125153.mp4,96.1,asphalt,day,dry,passenger_view; low_angle; occluded; shadows,0,,asphalt
+0232,preannotate,preannotate/images/0232.jpg,,20261003_130339_f000210.jpg,20261003_130339.mp4,7.0,asphalt,day,dry,on_foot; low_angle; gravel_shoulder,0,,asphalt
+0233,preannotate,preannotate/images/0233.jpg,,20261003_130339_f000330.jpg,20261003_130339.mp4,11.0,asphalt,day,dry,on_foot; low_angle; gravel_shoulder,0,,asphalt
+0234,preannotate,preannotate/images/0234.jpg,,20261003_130339_f001410.jpg,20261003_130339.mp4,47.0,asphalt,day,dry,on_foot; gravel_shoulder,0,,asphalt
+0235,preannotate,preannotate/images/0235.jpg,,20261003_130339_f001530.jpg,20261003_130339.mp4,51.0,asphalt,day,dry,on_foot; gravel_shoulder,0,,asphalt

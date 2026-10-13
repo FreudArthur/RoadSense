@@ -87,19 +87,15 @@ Everything is in [notebooks/roadsense-v1.ipynb](notebooks/roadsense-v1.ipynb), w
 ### Repository
 
 ```
-ANNOTATION_GUIDE.md      annotation rules
-scripts/
-  extract_frames.py      video -> frames (blur and duplicate filtering)
-  fix_orientation.py     per-frame rotation review
-  export_selection.py    copy the selected frames for CVAT
-  build_dataset.py       CVAT exports -> numbered images, binary masks, index.csv
+ANNOTATION_GUIDE.md          annotation rules
 notebooks/
-  roadsense-v1.ipynb     baseline, fine-tuning, pre-annotation, asphalt analysis
+  roadsense-v1.ipynb         baseline, fine-tuning, pre-annotation, asphalt analysis
 data/
-  index.csv              one row per image: split, surface, lighting, weather
+  index.csv                  one row per image: split, surface, lighting, weather
 results/
-  *.csv                  result tables
-  figures/               qualitative figure
+  *.csv                      result tables
+  qualitative_v0.png         qualitative figure
+  preannotations_*.xml       pre-annotations for CVAT (CVAT 1.1 format)
 ```
 
 ### Author
@@ -193,19 +189,15 @@ Tout est dans [notebooks/roadsense-v1.ipynb](notebooks/roadsense-v1.ipynb) (en a
 ### Organisation du dépôt
 
 ```
-ANNOTATION_GUIDE.md      règles d'annotation
-scripts/
-  extract_frames.py      vidéo -> images (filtre flou et doublons)
-  fix_orientation.py     revue de la rotation image par image
-  export_selection.py    copie des images sélectionnées pour CVAT
-  build_dataset.py       exports CVAT -> images numérotées, masques binaires, index.csv
+ANNOTATION_GUIDE.md          règles d'annotation
 notebooks/
-  roadsense-v1.ipynb     point zéro, fine-tuning, pré-annotation, analyse du goudron
+  roadsense-v1.ipynb         point zéro, fine-tuning, pré-annotation, analyse du goudron
 data/
-  index.csv              une ligne par image : split, surface, éclairage, météo
+  index.csv                  une ligne par image : split, surface, éclairage, météo
 results/
-  *.csv                  tableaux de résultats
-  figures/               figure qualitative
+  *.csv                      tableaux de résultats
+  qualitative_v0.png         figure qualitative
+  preannotations_*.xml       pré-annotations pour CVAT (format CVAT 1.1)
 ```
 
 ### Auteur
